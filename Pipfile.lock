@@ -39,10 +39,10 @@
         },
         "cloudflare": {
             "hashes": [
-                "sha256:4463d5f2927338384169315f34c2a8ac0840075b59489f8d1d773b91caba6c39"
+                "sha256:f04c341da627548c7188eef3b140494d43949f7128ce353969a2aafc92841171"
             ],
             "index": "pypi",
-            "version": "==2.6.5"
+            "version": "==2.7.1"
         },
         "future": {
             "hashes": [
@@ -52,10 +52,10 @@
         },
         "google-auth": {
             "hashes": [
-                "sha256:2243db98475f7f2033c41af5185333cbf13780e8f5f96eaadd997c6f34181dcc",
-                "sha256:23cfeeb71d98b7f51cd33650779d35291aeb8b23384976d497805d12eefc6e9b"
+                "sha256:4942ab1ff530e740866571c0416fb5a7dc9ec53233a8f8dff63e8cd7371003d1",
+                "sha256:82d32f6601f35309c95d5917bcdf72f3ec193c7f46c79e433b8d76ccbe68e21d"
             ],
-            "version": "==1.14.2"
+            "version": "==1.14.3"
         },
         "idna": {
             "hashes": [
